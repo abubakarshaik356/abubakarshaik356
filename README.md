@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ 🎓 I,m currently a student
+ 🌱 I’m currently learning new technologies
+ 😄 Pronouns: Him
+ 💬 Ask me about my skills
