@@ -12,3 +12,5 @@ The Core Azure Services used in this project are:
 2. App Services
 <h2>Azure AI Services</h2>
 The Azure AI Services used in this project is **Azure Bot Services**
+<h2>Azure App URL</h2>
+https://proud-pond-02e772a10.5.azurestaticapps.net
